@@ -7,5 +7,5 @@ y = input("enter 2nd number: ")
 print("second value is " + y)
 
 # subtract two numbers and store result
-z = (int(x) + int(y))
+z = (int(x) // int(y))
 print(f"Result is {z}")
