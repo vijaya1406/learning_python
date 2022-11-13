@@ -4,7 +4,3 @@ def subt(x,y):
     z = x - y
     #step 4 print
     print(z)
-
-
-SUBT(30,10)
-sub(20,10)
